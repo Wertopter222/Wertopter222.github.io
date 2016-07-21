@@ -1,0 +1,33 @@
+.header{
+  display: flex;
+  color: #9DB620;
+  text-align: center;
+  font-weight: bolder;
+  font-family: sans-serif;
+  font-size: 64px;
+  width: 100%;
+  height: 70px;
+  background: #0B9591
+}
+
+body{
+  margin: 0;
+}
+
+.lol-esports{
+  text-decoration: none;
+  color: blue;
+  font-weight: bold;
+}
+
+.CSGO{
+  text-decoration: none;
+  color: #4F4F4F;
+  font-weight: bold;
+}
+
+.overwatch{
+  text-decoration: none;
+  color: grey;
+  font-weight: bold;
+}
