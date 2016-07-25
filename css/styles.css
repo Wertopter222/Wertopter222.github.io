@@ -31,3 +31,8 @@ body{
   color: grey;
   font-weight: bold;
 }
+
+img{
+  width: 64px;
+  height: 32px;
+}
